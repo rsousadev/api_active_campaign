@@ -5,9 +5,9 @@
     
 """
 
-__author__ = "Ricardo Sousa"
+__author__ = "Ricardo"
 __copyright__ = "Free"
-__credits__ = "Ricardo De Maria Sousa"
+__credits__ = "Ricardo"
 __license__ = "GPL"
 __version__ = "1.0.0"
 __maintainer__ = "Ricardo Sousa"
